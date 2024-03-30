@@ -1,2 +1,2 @@
-# Conversor-de-Unidades
-Site simples para converter unidades, apenas treinamento com JS
+# Conversor de Medidas
+Site simples para converter medidas, apenas treinamento com JS
